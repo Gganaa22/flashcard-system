@@ -4442,3 +4442,358 @@ WARNING: Unmatched cancel notification for request id 4663
 2026.04.19 16:09:14 INFO  Memory monitor stopped
 2026.04.19 16:09:14 INFO  shutting down Metals
 2026.04.19 16:09:14 INFO  Exiting server
+2026.04.19 16:18:39 INFO  Started: Metals version 1.6.7 in folders 'C:\flashcard' for client Visual Studio Code 1.116.0.
+2026.04.19 16:18:39 INFO  Memory monitor started
+2026.04.19 16:18:40 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.19 16:18:42 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:18:43 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:18:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:18:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+Apr 19, 2026 4:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.04.19 16:18:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+Apr 19, 2026 4:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+2026.04.19 16:18:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+Apr 19, 2026 4:18:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2026.04.19 16:18:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:18:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:18:57 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:28 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:35 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:19:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:37 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:37 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:54 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:19:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:19:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:33 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+Apr 19, 2026 4:20:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 34
+2026.04.19 16:20:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:39 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:39 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:42 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:42 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:20:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:21 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:21 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:21:21 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:21 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:21 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:22 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:21:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:41 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:41 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:41 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:41 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:46 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:47 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:51 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:51 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:53 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:21:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:21:59 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:21:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:25 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:42 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:42 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:43 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:47 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:52 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:57 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:57 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:26:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:02 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:08 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:08 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:08 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:09 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:09 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:09 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:09 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:09 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:13 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:27:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:27:57 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:06 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:07 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:07 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:08 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:12 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:13 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:37 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:39 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:39 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:39 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:40 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:40 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:45 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:46 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:46 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:46 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:46 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:48 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:48 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:48 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:48 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:49 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:49 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:49 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:49 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:50 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:51 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:55 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:55 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:55 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:56 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:56 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:56 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:58 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:58 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:58 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:28:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:29:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:29:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:29:01 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:29:01 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:29:02 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:29:03 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:29:03 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:31:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:31:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:31:58 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:31:58 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:31:58 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:32:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:32:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:32:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+Apr 19, 2026 4:32:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 589
+Apr 19, 2026 4:32:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 590
+2026.04.19 16:32:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:32:01 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:32:01 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:32:01 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:34:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:34:54 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:34:55 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:34:55 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:34:57 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:03 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:03 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:04 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:03 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:07 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:35:07 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:07 WARN  Running javac-semanticdb failed for file:///C:/flashcard/src/main/java/FlashcardGame.java. Output:
+
+2026.04.19 16:35:07 INFO  Created report: Optional[file:///C:/flashcard/src/main/java/FlashcardGame.java]
+2026.04.19 16:35:07 INFO  QDox parse error in file:///C:/flashcard/src/main/java/FlashcardGame.java (full report at: "C:\flashcard\.metals\.reports\metals-full\2026-04-19\r_qdox-error_16-35-07-726.md")
+2026.04.19 16:35:08 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:10 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:15 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:17 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:17 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:18 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:18 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:18 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:35:21 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:35:21 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:14 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:16 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:22 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:27 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:29 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:30 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:30 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:31 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:31 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:31 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:33 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:33 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:34 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:35 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:36 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:36 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:39:36 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:53 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:56 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:39:59 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:00 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:02 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:04 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:04 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:04 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:04 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 16:40:05 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 16:40:05 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 17:07:20 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 17:07:44 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 17:07:44 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 17:09:57 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:09:57 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:09:57 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:10:00 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:10:02 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:02 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:02 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:02 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:05 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:05 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:05 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:05 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:06 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:06 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:06 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:06 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:08 INFO  no build target found for C:\flashcard\src\main\java\WorstFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:08 INFO  no build target found for C:\flashcard\src\main\java\WorstFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:08 INFO  no build target found for C:\flashcard\src\main\java\WorstFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:08 INFO  no build target found for C:\flashcard\src\main\java\WorstFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:11 WARN  no build target for: C:\flashcard\src\main\java\RecentMistakesFirstSorter.java
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:12 WARN  no build target for: C:\flashcard\src\main\java\Main.java
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:12 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:11 INFO  no build target found for C:\flashcard\src\main\java\Main.java. Using fallback presentation compiler.
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:13 WARN  no build target for: C:\flashcard\src\main\java\CardOrganizer.java
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\CardOrganizer.java. Using fallback presentation compiler.
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:10:14 WARN  no build target for: C:\flashcard\src\main\java\Card.java
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:10:14 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:10:13 INFO  no build target found for C:\flashcard\src\main\java\Card.java. Using fallback presentation compiler.
+2026.04.19 17:10:15 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 17:10:15 WARN  no build target for: C:\flashcard\src\main\java\FlashcardGame.java
+2026.04.19 17:10:15 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 17:10:16 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
+2026.04.19 17:10:15 INFO  no build target found for C:\flashcard\src\main\java\FlashcardGame.java. Using fallback presentation compiler.
