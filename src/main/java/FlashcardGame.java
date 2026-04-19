@@ -73,6 +73,7 @@ public class FlashcardGame {
             }
             c.incrementAsked();
         }
+        System.out.println("\n------------------");
         // Тойрог дууссаны дараа дараагийн тойрогт эрэмбэлнэ
     }
 

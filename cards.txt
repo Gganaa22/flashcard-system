@@ -2,3 +2,7 @@ Capital of France|Paris
 2+2|4
 Capital of Japan|Tokyo
 Capital of Mongolia|Ulaanbaatar
+Capital of Germany|Berlin
+Capital of Italy|Rome
+Capital of Spain|Madrid
+Capital of China|Beijing
