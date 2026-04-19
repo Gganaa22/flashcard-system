@@ -1,3 +1,14 @@
+error id: file:///C:/Users/DELL/OneDrive/文档/flashcard/Card.java:
+file:///C:/Users/DELL/OneDrive/文档/flashcard/Card.java
+empty definition using pc, found symbol in pc: 
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 263
+uri: file:///C:/Users/DELL/OneDrive/文档/flashcard/Card.java
+text:
+```scala
 public class Card {
 
     private String question;
@@ -6,7 +17,9 @@ public class Card {
     private int correctCount = 0;
     private int wrongCount = 0;
 
-    private boolean wrongLastTime = false;
+    private int askedCount = 0;
+
+    private boolean lastAnswerWrong = false;private boolean lastAnswerWrong@@ = false;
 
     public Card(String question, String answer) {
         this.question = question;
@@ -46,4 +59,17 @@ public class Card {
     public int getRepeatCount() {
         return correctCount + wrongCount;
     }
+    public void incrementAsked() {
+        askedCount++;
+    }
+
+    public int getAskedCount() {
+        return askedCount;
+    }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: 

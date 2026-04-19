@@ -6,15 +6,17 @@ public class Main {
             return;
         }
 
-        if (args[0].equals("--help")) {
-            System.out.println("""
-                flashcard <file> [options]
+        for (String arg : args) {
+            if (arg.equals("--help")) {
+                System.out.println("""
+                    flashcard <file> [options]
 
-                --order random | worst-first | recent-mistakes-first
-                --repetitions <num>
-                --invertCards
-            """);
-            return;
+                    --order random | worst-first | recent-mistakes-first
+                    --repetitions <num>
+                    --invertCards
+                """);
+                return;
+            }
         }
 
         FlashcardGame game = new FlashcardGame();

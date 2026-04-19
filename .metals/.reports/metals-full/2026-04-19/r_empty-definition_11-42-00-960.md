@@ -1,3 +1,14 @@
+error id: file:///C:/Users/DELL/OneDrive/文档/flashcard/FlashcardGame.java:java/lang/System#
+file:///C:/Users/DELL/OneDrive/文档/flashcard/FlashcardGame.java
+empty definition using pc, found symbol in pc: java/lang/System#
+empty definition using semanticdb
+empty definition using fallback
+non-local guesses:
+
+offset: 2494
+uri: file:///C:/Users/DELL/OneDrive/文档/flashcard/FlashcardGame.java
+text:
+```scala
 import java.util.*;
 import java.io.*;
 
@@ -97,9 +108,15 @@ public class FlashcardGame {
 
         for (Card c : cards) {
             if (c.getCorrectCount() >= 3) {
-                System.out.println("🏆 Achievement: CONFIDENT");
+                Syste@@m.out.println("🏆 Achievement: CONFIDENT");
                 break;
             }
         }
     }
 }
+```
+
+
+#### Short summary: 
+
+empty definition using pc, found symbol in pc: java/lang/System#
