@@ -58,23 +58,31 @@ public class FlashcardGame {
             System.out.println("\nQ: " + q);
             System.out.print("Your answer: ");
             long start = System.currentTimeMillis();
-            String ans = sc.nextLine();
+            String ans = sc.nextLine().trim();
             long elapsed = System.currentTimeMillis() - start;
             c.addResponseTime(elapsed);
 
+            
+            if (ans.equalsIgnoreCase("q") || ans.equalsIgnoreCase("quit")) {
+                System.out.println("Программ зогслоо.");
+                sc.close();
+                showAchievements();
+                return;
+                }
+
             if (ans.equalsIgnoreCase(correct)) {
-                System.out.println("✓ Correct!");
+                System.out.println(" Correct!");
                 c.markCorrect();
                 correctStreak.put(c, correctStreak.get(c) + 1);
             } else {
-                System.out.println("✗ Wrong! (Correct: " + correct + ")");
+                System.out.println(" Wrong! (Correct: " + correct + ")");
                 c.markWrong();
                  
             }
             c.incrementAsked();
         }
         System.out.println("\n------------------");
-        // Тойрог дууссаны дараа дараагийн тойрогт эрэмбэлнэ
+        
     }
 
     sc.close();
@@ -113,7 +121,7 @@ public class FlashcardGame {
     private void showAchievements() {
     System.out.println("\n=== Achievements ===");
 
-    // CORRECT: сүүлийн тойрогт буруу хариулсан карт байхгүй
+    // CORRECT: сүүлийн тойрогт  бүх карт зөв хариулсан
     boolean allCorrect = true;
     for (Card c : cards) {
         if (c.wasWrongLastTime()) {
