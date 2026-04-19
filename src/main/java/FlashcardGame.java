@@ -64,7 +64,7 @@ public class FlashcardGame {
 
             
             if (ans.equalsIgnoreCase("q") || ans.equalsIgnoreCase("quit")) {
-                System.out.println("Программ зогслоо.");
+                System.out.println("Programm zogsloo.");
                 sc.close();
                 showAchievements();
                 return;
