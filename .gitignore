@@ -1,0 +1,6 @@
+target/
+*.class
+.metals/
+.vscode/
+*.db
+*.log
