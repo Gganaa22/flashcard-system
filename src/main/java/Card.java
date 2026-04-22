@@ -11,7 +11,7 @@ public class Card {
     private boolean lastAnswerWrong = false;
 
     private long totalResponseTime = 0;             
-    private int roundCount = 0; //hedn udaa hariulsn
+    private int roundCount = 0; 
 
     private int wrongOrder = 0; // hed deh buruu hariult bolohiig hadgalna 
 

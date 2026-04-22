@@ -109,7 +109,7 @@ public class FlashcardGame {
     }
 
     private void load() { //flashcard file iig unshina
-        try (Scanner sc = new Scanner(new File(file))) {//file neene
+        try (Scanner sc = new Scanner(new File(file))) {
             while (sc.hasNextLine()) {
                 String line = sc.nextLine().trim();
                 if (line.isEmpty()) continue;
