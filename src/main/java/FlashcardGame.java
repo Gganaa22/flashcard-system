@@ -1,5 +1,4 @@
 import java.util.*;
-
 import java.io.*;
 
 public class FlashcardGame {
@@ -9,6 +8,8 @@ public class FlashcardGame {
     private String order = "none";
     private int repetitions = 1;
     private boolean invert = false;
+
+    private int wrongCounter = 0;
 
     public void setFile(String file) {
         this.file = file;
@@ -37,28 +38,30 @@ public class FlashcardGame {
     }
 
     while (true) {
-        List<Card> remaining = new ArrayList<>();
+        List<Card> remaining = new ArrayList<>(); //дахин асуух шаардлагатай картууд.
         for (Card c : cards) {
-            if (correctStreak.get(c) < repetitions) {
+            if (correctStreak.get(c) < repetitions) {//хэрэв тухайн карт шаардлагатай тоогоор зөв хариулагдаагүй бол
                 remaining.add(c);
             }
         }
 
         if (remaining.isEmpty()) break;
 
-        remaining = organizer.organize(remaining);
+        remaining = organizer.organize(remaining);//сонгосон стратегиар картуудыг эрэмбэлнэ.
+
+
 
         // Тойрог бүрт бүх картыг нэг нэгээр асуух
-        for (Card c : new ArrayList<>(remaining)) {
+        for (Card c : new ArrayList<>(remaining)) { //remaining картууд дээр давталт.
             if (correctStreak.get(c) >= repetitions) continue;
 
-            String q       = invert ? c.getAnswer()   : c.getQuestion();
-            String correct = invert ? c.getQuestion()  : c.getAnswer();
+            String q       = invert ? c.getAnswer()   : c.getQuestion();//invert=true бол answer → question
+            String correct = invert ? c.getQuestion()  : c.getAnswer();//зөв хариуг тодорхойлж байна.
 
-            System.out.println("\nQ: " + q);
+            System.out.println("\nQ: " + q);//Асуулт хэвлэх
             System.out.print("Your answer: ");
-            long start = System.currentTimeMillis();
-            String ans = sc.nextLine().trim();
+            long start = System.currentTimeMillis();//Response time хэмжих
+            String ans = sc.nextLine().trim();//хэрэглэгчийн input.
             long elapsed = System.currentTimeMillis() - start;
             c.addResponseTime(elapsed);
 
@@ -69,18 +72,20 @@ public class FlashcardGame {
                 showAchievements();
                 return;
                 }
-
+            
+            //Хариу шалгах
             if (ans.equalsIgnoreCase(correct)) {
                 System.out.println(" Correct!");
                 c.markCorrect();
                 correctStreak.put(c, correctStreak.get(c) + 1);
             } else {
                 System.out.println(" Wrong! (Correct: " + correct + ")");
-                c.markWrong();
+                c.markWrong(++wrongCounter); //wrongCount нэмэгдэнэ.
                  
             }
-            c.incrementAsked();
+            c.incrementAsked();//карт асуусан тоог нэмнэ.
         }
+        
         System.out.println("\n------------------");
         
     }
@@ -89,7 +94,7 @@ public class FlashcardGame {
     showAchievements();
     }
 
-
+//карт эрэмбэлэх стратеги сонгоно
     private CardOrganizer getOrganizer() {
         switch (order) {
             case "worst-first":
@@ -103,14 +108,14 @@ public class FlashcardGame {
         }
     }
 
-    private void load() {
-        try (Scanner sc = new Scanner(new File(file))) {
+    private void load() { //flashcard файлыг уншина.
+        try (Scanner sc = new Scanner(new File(file))) {//файл нээнэ.
             while (sc.hasNextLine()) {
                 String line = sc.nextLine().trim();
                 if (line.isEmpty()) continue;
                 String[] p = line.split("\\|");
                 if (p.length >= 2) {
-                    cards.add(new Card(p[0].trim(), p[1].trim()));
+                    cards.add(new Card(p[0].trim(), p[1].trim())); //шинэ карт үүсгэнэ
                 }
             }
         } catch (Exception e) {

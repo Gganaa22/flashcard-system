@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class RecentMistakesFirstSorter implements CardOrganizer {
@@ -16,6 +17,8 @@ public class RecentMistakesFirstSorter implements CardOrganizer {
                 correct.add(c);
             }
         }
+
+        wrong.sort(Comparator.comparingInt(Card::getWrongOrder).reversed()); // ← ӨӨРЧЛӨХ
 
         wrong.addAll(correct);
         return wrong;

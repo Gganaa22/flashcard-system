@@ -10,8 +10,10 @@ public class Card {
 
     private boolean lastAnswerWrong = false;
 
-    private long totalResponseTime = 0;
-    private int roundCount = 0;
+    private long totalResponseTime = 0;             
+    private int roundCount = 0; //hedn udaa hariulsn
+
+    private int wrongOrder = 0; // хэдэн дэх буруу хариулт болохыг хадгална
 
     public Card(String question, String answer) {
         this.question = question;
@@ -31,9 +33,13 @@ public class Card {
         lastAnswerWrong = false;
     }
 
-    public void markWrong() {
+    public void markWrong(int newOrder) {
         wrongCount++;
         lastAnswerWrong = true;
+        wrongOrder = newOrder ; // ← дарааллын дугаар 
+    }
+    public int getWrongOrder() {
+        return wrongOrder;
     }
 
     public int getCorrectCount() {

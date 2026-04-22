@@ -1,4 +1,0 @@
-Capital of France|Paris
-2+2|4
-Capital of Japan|Tokyo
-Capital of Mongolia|Ulaanbaatar
