@@ -18,7 +18,7 @@ public class RecentMistakesFirstSorter implements CardOrganizer {
             }
         }
 
-        wrong.sort(Comparator.comparingInt(Card::getWrongOrder).reversed()); // ← ӨӨРЧЛӨХ
+        wrong.sort(Comparator.comparingInt(Card::getWrongOrder).reversed()); // oorchlolt hiisn
 
         wrong.addAll(correct);
         return wrong;

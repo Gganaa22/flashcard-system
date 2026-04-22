@@ -13,7 +13,7 @@ public class Card {
     private long totalResponseTime = 0;             
     private int roundCount = 0; //hedn udaa hariulsn
 
-    private int wrongOrder = 0; // хэдэн дэх буруу хариулт болохыг хадгална
+    private int wrongOrder = 0; // hed deh buruu hariult bolohiig hadgalna 
 
     public Card(String question, String answer) {
         this.question = question;
@@ -36,7 +36,7 @@ public class Card {
     public void markWrong(int newOrder) {
         wrongCount++;
         lastAnswerWrong = true;
-        wrongOrder = newOrder ; // ← дарааллын дугаар 
+        wrongOrder = newOrder ; // daraagiin dugaar
     }
     public int getWrongOrder() {
         return wrongOrder;

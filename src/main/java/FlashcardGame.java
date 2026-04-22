@@ -38,30 +38,30 @@ public class FlashcardGame {
     }
 
     while (true) {
-        List<Card> remaining = new ArrayList<>(); //дахин асуух шаардлагатай картууд.
+        List<Card> remaining = new ArrayList<>(); //dahin asuuh shaardlagatai card uud
         for (Card c : cards) {
-            if (correctStreak.get(c) < repetitions) {//хэрэв тухайн карт шаардлагатай тоогоор зөв хариулагдаагүй бол
+            if (correctStreak.get(c) < repetitions) {
                 remaining.add(c);
             }
         }
 
         if (remaining.isEmpty()) break;
 
-        remaining = organizer.organize(remaining);//сонгосон стратегиар картуудыг эрэмбэлнэ.
+        remaining = organizer.organize(remaining);
 
 
 
-        // Тойрог бүрт бүх картыг нэг нэгээр асуух
-        for (Card c : new ArrayList<>(remaining)) { //remaining картууд дээр давталт.
+        
+        for (Card c : new ArrayList<>(remaining)) {
             if (correctStreak.get(c) >= repetitions) continue;
 
-            String q       = invert ? c.getAnswer()   : c.getQuestion();//invert=true бол answer → question
-            String correct = invert ? c.getQuestion()  : c.getAnswer();//зөв хариуг тодорхойлж байна.
+            String q       = invert ? c.getAnswer()   : c.getQuestion();//invert=true bol answer → question
+            String correct = invert ? c.getQuestion()  : c.getAnswer();//zov hariug todrhoil bn
 
-            System.out.println("\nQ: " + q);//Асуулт хэвлэх
+            System.out.println("\nQ: " + q);
             System.out.print("Your answer: ");
-            long start = System.currentTimeMillis();//Response time хэмжих
-            String ans = sc.nextLine().trim();//хэрэглэгчийн input.
+            long start = System.currentTimeMillis();
+            String ans = sc.nextLine().trim();//hereglegciin input.
             long elapsed = System.currentTimeMillis() - start;
             c.addResponseTime(elapsed);
 
@@ -80,10 +80,10 @@ public class FlashcardGame {
                 correctStreak.put(c, correctStreak.get(c) + 1);
             } else {
                 System.out.println(" Wrong! (Correct: " + correct + ")");
-                c.markWrong(++wrongCounter); //wrongCount нэмэгдэнэ.
+                c.markWrong(++wrongCounter); 
                  
             }
-            c.incrementAsked();//карт асуусан тоог нэмнэ.
+            c.incrementAsked();
         }
         
         System.out.println("\n------------------");
@@ -94,7 +94,7 @@ public class FlashcardGame {
     showAchievements();
     }
 
-//карт эрэмбэлэх стратеги сонгоно
+//card erembeleh strategy ee songono 
     private CardOrganizer getOrganizer() {
         switch (order) {
             case "worst-first":
@@ -108,14 +108,14 @@ public class FlashcardGame {
         }
     }
 
-    private void load() { //flashcard файлыг уншина.
-        try (Scanner sc = new Scanner(new File(file))) {//файл нээнэ.
+    private void load() { //flashcard file iig unshina
+        try (Scanner sc = new Scanner(new File(file))) {//file neene
             while (sc.hasNextLine()) {
                 String line = sc.nextLine().trim();
                 if (line.isEmpty()) continue;
                 String[] p = line.split("\\|");
                 if (p.length >= 2) {
-                    cards.add(new Card(p[0].trim(), p[1].trim())); //шинэ карт үүсгэнэ
+                    cards.add(new Card(p[0].trim(), p[1].trim())); 
                 }
             }
         } catch (Exception e) {
@@ -126,7 +126,7 @@ public class FlashcardGame {
     private void showAchievements() {
     System.out.println("\n=== Achievements ===");
 
-    // CORRECT: сүүлийн тойрогт  бүх карт зөв хариулсан
+    
     boolean allCorrect = true;
     for (Card c : cards) {
         if (c.wasWrongLastTime()) {
@@ -138,7 +138,7 @@ public class FlashcardGame {
         System.out.println("Achievement: CORRECT");
     }
 
-    // REPEAT: нэг картад 5-аас ОЛОН удаа хариулсан
+    
     for (Card c : cards) {
         if (c.getAskedCount() > 5) {
             System.out.println("Achievement: REPEAT");
@@ -146,7 +146,7 @@ public class FlashcardGame {
         }
     }
 
-    // CONFIDENT: нэг картад 3-аас ДЭЭШ удаа зөв хариулсан
+    
     for (Card c : cards) {
         if (c.getCorrectCount() >= 3) {
             System.out.println("Achievement: CONFIDENT");
@@ -154,7 +154,7 @@ public class FlashcardGame {
         }
     }
 
-    // SPEEDRUN: дундаж 5 секундээс доош
+    
     boolean speedrun = true;
     for (Card c : cards) {
         if (c.getAvgResponseTime() > 5000) {
